@@ -1,3 +1,3 @@
-# 6th Workshop on Machine Learing in HPC Environments
+# 8th Workshop on Machine Learing in HPC Environments
 
-Find out more at [MLHPC2020](http://ornlcda.github.io/MLHPC2020).
+Find out more at [MLHPC2022](http://ornlcda.github.io/MLHPC2022).
